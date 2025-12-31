@@ -281,7 +281,7 @@ TEXTS = {
 
     "zh": {
         "site_title": "杭州绿叶茶 | 中国出口绿茶示例网站",
-        "brand": "Green Leaf Tea",
+        "brand": "绿叶茶",
 
         # NAV
         "nav_story": "品牌故事",
